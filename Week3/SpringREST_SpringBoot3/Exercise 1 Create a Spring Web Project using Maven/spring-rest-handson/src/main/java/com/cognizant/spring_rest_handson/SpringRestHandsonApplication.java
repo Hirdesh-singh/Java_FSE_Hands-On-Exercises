@@ -1,4 +1,4 @@
-package com.cognizant.springresthandson;
+package com.cognizant.spring_rest_handson;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

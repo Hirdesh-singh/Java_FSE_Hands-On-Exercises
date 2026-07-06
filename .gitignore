@@ -6,3 +6,18 @@
 
 # Java crash logs
 hs_err_pid*
+
+# Maven
+target/
+
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
